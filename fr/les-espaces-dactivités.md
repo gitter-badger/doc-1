@@ -1,2 +1,2 @@
 
-![alt](./assets/zone_contenu.png)
+![alt](./../assets/zone_contenu.png)
